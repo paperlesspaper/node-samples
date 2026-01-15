@@ -1,6 +1,6 @@
 # paperlesspaper node-samples
 
-Minimal Node.js example for uploading (swapping) the image shown on an ePaper screen using the paperlesspaper API:
+Minimal Node.js example for uploading (swapping) the image shown on an ePaper screen using the paperlesspaper API. This code is used in the tutorial in the [paperlesspaper Blog](https://paperlesspaper.de/en/blog/using-the-api).
 
 - `POST /papers/uploadSingleImage/:paperId`
 
